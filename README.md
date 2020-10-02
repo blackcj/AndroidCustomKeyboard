@@ -1,4 +1,4 @@
-# AndroidCustomKeyboard
+# Android Custom Keyboard
 
 Android custom keyboard with predictive text.
 
