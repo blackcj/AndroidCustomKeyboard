@@ -25,7 +25,7 @@
     android:keyHeight="@dimen/key_height">
 
     <Row>
-        <Key android:codes="113" android:keyLabel="k" android:keyEdgeFlags="left" android:popupCharacters="1" android:popupKeyboard="@xml/keyboard_popup_template"/>
+        <Key android:codes="113" android:keyLabel="S" android:keyEdgeFlags="left" android:popupCharacters="1" android:popupKeyboard="@xml/keyboard_popup_template"/>
         <Key android:codes="119" android:keyLabel="w" android:popupCharacters="2" android:popupKeyboard="@xml/keyboard_popup_template"/>
         <Key android:codes="101" android:keyLabel="e" android:popupCharacters="3" android:popupKeyboard="@xml/keyboard_popup_template"/>
         <Key android:codes="114" android:keyLabel="r" android:popupCharacters="4" android:popupKeyboard="@xml/keyboard_popup_template"/>
